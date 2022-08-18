@@ -1,3 +1,7 @@
+# Changes from original repo:
+- Added accessible Google [Colab](https://github.com/eyaler/autocoder/blob/main/colab/autocoder.ipynb) for training and (interactive) generation. Short link: https://bit.ly/autocod 
+
+
 # autocoder
 
 The autocoder package is an implementation of a variational autoencoder––a neural network capable of learning a spectral representation of a soundfile and synthesizing a novel output based on the trained model. It provides an easily extendable ecosystem to assist with the experimentation and development of sound software and hardware based on the underlying neural network architecture.
